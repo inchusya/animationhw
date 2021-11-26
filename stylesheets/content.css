@@ -1,0 +1,198 @@
+.face {
+  width: 160px;
+  height: 160px;
+  display: block;
+  position: absolute;
+  background: url('../img/smilehw.png');
+}
+.face2 {
+  width: 160px;
+  height: 160px;
+  display: block;
+  position: absolute;
+  background: url('../img/smilehw.png');
+  animation:face2 2s steps(1) infinite;
+}
+
+.face3 {
+  width: 160px;
+  height: 160px;
+  display: block;
+  position: absolute;
+  background: url('../img/smilehw.png');
+  animation:face3 2s steps(1) infinite;
+}
+@keyframes face2 {
+  0%{ background-position:  -160px 0px;}
+  50%{ background-position:  -320px 0px;}
+  75%{ background-position:   -480px 0px;}
+}
+
+@keyframes face3 {
+  0%{ background-position:  -640px 0px;}
+  50%{ background-position:  -800px 0px;}
+  75%{ background-position:   -960px 0px;}
+}
+.face21 {
+  width: 160px;
+  height: 160px;
+  left: 15%;
+  display: block;
+  position: absolute;
+  background: url('../img/face21.png');
+}
+.face22 {
+  width: 160px;
+  height: 160px;
+  left: 15%;
+  display: block;
+  position: absolute;
+  background: url('../img/face21.png');
+  animation:face22 2s steps(1) infinite;
+}
+
+.face23 {
+  width: 160px;
+  height: 160px;
+  left: 15%;
+  display: block;
+  position: absolute;
+  background: url('../img/face21.png');
+  animation:face23 2s steps(1) infinite;
+}
+@keyframes face22 {
+  0%{ background-position:  -160px 0px;}
+  50%{ background-position:  -320px 0px;}
+  75%{ background-position:   -480px 0px;}
+  animation-play-state: running;
+}
+
+@keyframes face23 {
+  0%{ background-position:  -640px 0px;}
+  50%{ background-position:  -800px 0px;}
+  75%{ background-position:   -960px 0px;}
+  animation-play-state: running;
+}
+
+.face31 {
+  width: 160px;
+  height: 160px;
+  left: 30%;
+  display: block;
+  position: absolute;
+  background: url('../img/face31.png');
+}
+.face32 {
+  width: 160px;
+  height: 160px;
+  left: 30%;
+  display: block;
+  position: absolute;
+  background: url('../img/face31.png');
+  animation:face32 2s steps(1) infinite;
+}
+
+.face33 {
+  width: 160px;
+  height: 160px;
+  left: 30%;
+  display: block;
+  position: absolute;
+  background: url('../img/face31.png');
+  animation:face33 2s steps(1) infinite;
+}
+@keyframes face32 {
+  0%{ background-position:  -160px 0px;}
+  50%{ background-position:  -320px 0px;}
+  75%{ background-position:   -480px 0px;}
+  animation-play-state: running;
+}
+
+@keyframes face33 {
+  0%{ background-position:  -640px 0px;}
+  50%{ background-position:  -800px 0px;}
+  75%{ background-position:   -960px 0px;}
+  animation-play-state: running;
+}
+
+.face41 {
+  width: 160px;
+  height: 160px;
+  left: 45%;
+  display: block;
+  position: absolute;
+  background: url('../img/face41.png');
+}
+.face42 {
+  width: 160px;
+  height: 160px;
+  left: 45%;
+  display: block;
+  position: absolute;
+  background: url('../img/face41.png');
+  animation:face42 2s steps(1) infinite;
+}
+
+.face43 {
+  width: 160px;
+  height: 160px;
+  left: 45%;
+  display: block;
+  position: absolute;
+  background: url('../img/face41.png');
+  animation:face43 2s steps(1) infinite;
+}
+@keyframes face42 {
+  0%{ background-position:  -160px 0px;}
+  50%{ background-position:  -320px 0px;}
+  75%{ background-position:   -480px 0px;}
+  animation-play-state: running;
+}
+
+@keyframes face43 {
+  0%{ background-position:  -640px 0px;}
+  50%{ background-position:  -800px 0px;}
+  75%{ background-position:   -960px 0px;}
+  animation-play-state: running;
+}
+
+.face51 {
+  width: 160px;
+  height: 160px;
+  left: 60%;
+  display: block;
+  position: absolute;
+  background: url('../img/face51.png');
+}
+.face52 {
+  width: 160px;
+  height: 160px;
+  left: 60%;
+  display: block;
+  position: absolute;
+  background: url('../img/face51.png');
+  animation:face52 2s steps(1) infinite;
+}
+
+.face53 {
+  width: 160px;
+  height: 160px;
+  left: 60%;
+  display: block;
+  position: absolute;
+  background: url('../img/face51.png');
+  animation:face53 2s steps(1) infinite;
+}
+@keyframes face52 {
+  0%{ background-position:  -160px 0px;}
+  50%{ background-position:  -320px 0px;}
+  75%{ background-position:   -480px 0px;}
+  animation-play-state: running;
+}
+
+@keyframes face53 {
+  0%{ background-position:  -640px 0px;}
+  50%{ background-position:  -800px 0px;}
+  75%{ background-position:   -960px 0px;}
+  animation-play-state: running;
+}
